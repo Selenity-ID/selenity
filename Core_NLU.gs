@@ -1,3 +1,9 @@
+/*
+ * Proyecto: Chibi Pelusa (Motor NLU y Markov Nativo)
+ * Creadora y Arquitecta: Selene Jimenez
+ * Copyright (c) 2026. Todos los derechos reservados.
+ */
+
 // ==========================================
 // CORE NLU: MOTOR LÉXICO, SENTIMENTAL Y ASOCIATIVO
 // ==========================================
